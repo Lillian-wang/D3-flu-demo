@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="styles.css" />
+<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+
+<body>
+  <div class="nav-bar">
+    <div class="inner-wrapper">
+      <div class="section-links">
+        <a class="overview" href="./">Flu Graphs</a>
+        <a class="active detail" href="./project_description.html">Project Details</a>
+      </div>
+    </div>
+  </div>
+  <div class="card" id="project-detail">
+    <h2>Background</h2>
+    <p>
+      I was given an opportuity to imagine how we could use data visualization to work with flu cases. It was fairly open ended so I was free to do what I thought was best. Since I am fairly new to this area, I started this project by identifying a core user and a set of user journeys that I could build a story around.
+    </p>
+    <p>
+      Target user:  Sarah, a US based market reacher working for Pfizer. She is trying to figure out where to target the flu vaccines for sale in the next year so that
+      Pfizer can help the most number of people while also growing its market share.
+    </p>
+    <h2>User Story</h2>
+    <ol>
+      <li>
+        <p>
+          (Done) As Sarah, I want to know which state has the highest flu cases so that I know where to focus my research.
+          <ul>
+            <li>Achievable with sorted table of states with flu cases</li>
+          </ul>
+        </p>
+      </li>
+      <li>
+        <p>
+          (Done) As Sarah, I want to be able to see which state has the most flu cases so that I can target particular demographics in my market campaign.
+          <ul>
+            <li>
+              Need different charts showing flu cases according to different demographics (i.e. gender, age range, etc.)
+            </li>
+            <li>
+              Create filters that allow Sarah to focus on the specific demographics she selects.
+            </li>
+          </ul>
+        </p>
+      </li>
+      <li>
+        <p>
+          (To do) As Sarah, I want to know the future flu vaccine market so that I can help company better allocate resources in different product portfolios.
+          <ul>
+            <li>
+              Achievable with chart showing yearly flu trend.
+            </li>
+          </ul>
+        </p>
+      </li>
+      <li>
+        <p>
+          (To do) As Sarah, I'd like to know which state has the biggest competitors so I can decide whether to comptete against them in that market.
+          <ul>
+            <li>
+              Introduce competitor market share in each state.
+            </li>
+          </ul>
+        </p>
+      </li>
+    </ol>
+    <h2>Technical design</h2>
+    <p>
+      Initially I looked for flu data on the WHO and CDC’s website, but I could not find much. Since time was limited, I decided to shift my focus to build the application, so I generated a sample dataset.
+    </p>
+    <p>
+      Building individual charts was not too hard once I remembered how to do this again. 
+      <ul>
+        <li><a href="">Gender Ratio Pie Chart</a></li>
+        <li><a href="">Age Range Chart</a></li>
+        <li><a href="">US Flu Map</a></li>
+      </ul>
+    </p>
+    <p>
+      However story #2 required the filtering in one chart to affect the display of others. Therefore all components needed to share the same data source. I created FluDataService to  unify the data flow between the charts.
+      <ul>
+        <li><a href="">FluDataService</a></li>
+      </ul>
+
+      Whenever a chart needs to filter something, e.g. show only the flu cases in California, the chart tells FluDataService to perform the filtering, and then  update all charts with the new filtered data.
+    </p>
+    <p> Here is a diagram showing how the data flows between the charts:</p>
+    <img class="flow-chart" alt="Flow chart of data service" src="img/flow_chart.jpeg">
+  </div>
+
+</body>
+
+</html>

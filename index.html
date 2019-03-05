@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="styles.css" />
+<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+
+<body>
+  <div class="nav-bar">
+    <div class="inner-wrapper">
+      <div class="section-links">
+        <a class="active overview" href="./">Flu Graphs</a>
+        <a class="detail" href="./project_description.html">Project Details</a>
+      </div>
+    </div>
+  </div>
+  <div class="card">
+    <button id="reset-charts-btn" class="primary-button invisible">Reset</button>
+    <div id="graph-views">
+      <div id="secondary-filters">
+        <div id="gender-ratio-pie" class="chart-section">
+          <h4>Gender ratio of flu patients</h4>
+        </div>
+        <div id="age-distribution-bar" class="chart-section">
+          <h4>Age distribution of flu patients</h4>
+        </div>
+        <div id="rankings-table" class="chart-section">
+          <h4>Top 5 states of flu cases</h4>
+          <table>
+            <thead>
+              <tr>
+                <th>Rank</th>
+                <th>State</th>
+                <th># reported cases</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td class="rank"></td>
+                <td class="state"></td>
+                <td class="num-cases"></td>
+              </tr>
+              <tr>
+                <td class="rank"></td>
+                <td class="state"></td>
+                <td class="num-cases"></td>
+              </tr>
+              <tr>
+                <td class="rank"></td>
+                <td class="state"></td>
+                <td class="num-cases"></td>
+              </tr>
+              <tr>
+                <td class="rank"></td>
+                <td class="state"></td>
+                <td class="num-cases"></td>
+              </tr>
+              <tr>
+                <td class="rank"></td>
+                <td class="state"></td>
+                <td class="num-cases"></td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <hr>
+      <div id="us-map" class="chart-section">
+        <svg width="1100" height="600" class="map-svg"></svg> <!-- svg to hold the map. -->
+      </div>
+    </div>
+  </div>
+  <script>
+    window.onload = () => {
+      LandingPageInit();
+    };
+  </script>
+  <script src="https://d3js.org/d3.v4.min.js"></script>
+
+  <script src="js/flu_data_service.js"></script>
+  <script src="js/charts/us_flu_map.js"></script>
+  <script src="js/charts/gender_ratio_chart.js"></script>
+  <script src="js/charts/age_range_chart.js"></script>
+  <script src="js/charts/rankings_table.js"></script>
+  <script src="js/landing_page.js"></script>
+</body>
+
+</html>

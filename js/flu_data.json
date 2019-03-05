@@ -1,0 +1,3607 @@
+[
+  {
+    "gender": "f",
+    "stateName": "HI",
+    "age": 20,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "HI",
+    "age": 90,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "HI",
+    "age": 32,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "HI",
+    "age": 69,
+    "fluType": "A",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "HI",
+    "age": 84,
+    "fluType": "A",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "HI",
+    "age": 34,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "HI",
+    "age": 23,
+    "fluType": "A",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "AK",
+    "age": 64,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "AK",
+    "age": 63,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "AK",
+    "age": 57,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "AK",
+    "age": 32,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "AK",
+    "age": 94,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "FL",
+    "age": 1,
+    "fluType": "A",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "FL",
+    "age": 54,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "FL",
+    "age": 20,
+    "fluType": "A",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "FL",
+    "age": 65,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "FL",
+    "age": 87,
+    "fluType": "A",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "FL",
+    "age": 89,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "FL",
+    "age": 62,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "FL",
+    "age": 95,
+    "fluType": "A",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "FL",
+    "age": 11,
+    "fluType": "A",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "FL",
+    "age": 76,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "FL",
+    "age": 38,
+    "fluType": "A",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "FL",
+    "age": 89,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "FL",
+    "age": 12,
+    "fluType": "A",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "FL",
+    "age": 3,
+    "fluType": "A",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "SC",
+    "age": 91,
+    "fluType": "A",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "SC",
+    "age": 72,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "SC",
+    "age": 98,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "SC",
+    "age": 54,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "SC",
+    "age": 78,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "SC",
+    "age": 69,
+    "fluType": "A",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "SC",
+    "age": 29,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "SC",
+    "age": 18,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "SC",
+    "age": 93,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "SC",
+    "age": 41,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "SC",
+    "age": 31,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "SC",
+    "age": 89,
+    "fluType": "A",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "SC",
+    "age": 23,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "SC",
+    "age": 21,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "SC",
+    "age": 77,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "SC",
+    "age": 78,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "SC",
+    "age": 35,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "SC",
+    "age": 63,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "SC",
+    "age": 46,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "SC",
+    "age": 73,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "GA",
+    "age": 36,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "GA",
+    "age": 69,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "GA",
+    "age": 66,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "GA",
+    "age": 49,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "GA",
+    "age": 95,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "GA",
+    "age": 57,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "GA",
+    "age": 9,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "GA",
+    "age": 29,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "GA",
+    "age": 2,
+    "fluType": "A",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "GA",
+    "age": 53,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "GA",
+    "age": 73,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "GA",
+    "age": 24,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "GA",
+    "age": 65,
+    "fluType": "A",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "GA",
+    "age": 74,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "GA",
+    "age": 9,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "GA",
+    "age": 80,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "GA",
+    "age": 88,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "GA",
+    "age": 61,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "GA",
+    "age": 87,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "AL",
+    "age": 93,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "AL",
+    "age": 13,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "AL",
+    "age": 38,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "NC",
+    "age": 38,
+    "fluType": "A",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "NC",
+    "age": 43,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "NC",
+    "age": 28,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "NC",
+    "age": 98,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "NC",
+    "age": 32,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "NC",
+    "age": 10,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "NC",
+    "age": 54,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "NC",
+    "age": 82,
+    "fluType": "A",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "NC",
+    "age": 34,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "NC",
+    "age": 85,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "NC",
+    "age": 29,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "NC",
+    "age": 2,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "NC",
+    "age": 86,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "NC",
+    "age": 44,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "NC",
+    "age": 72,
+    "fluType": "A",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "TN",
+    "age": 70,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "RI",
+    "age": 3,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "RI",
+    "age": 45,
+    "fluType": "A",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "RI",
+    "age": 46,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "RI",
+    "age": 16,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "RI",
+    "age": 70,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "RI",
+    "age": 57,
+    "fluType": "A",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "RI",
+    "age": 67,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "RI",
+    "age": 3,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "RI",
+    "age": 85,
+    "fluType": "A",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "CT",
+    "age": 91,
+    "fluType": "A",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "CT",
+    "age": 20,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "CT",
+    "age": 78,
+    "fluType": "A",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "CT",
+    "age": 34,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "CT",
+    "age": 83,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "CT",
+    "age": 1,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "CT",
+    "age": 71,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "CT",
+    "age": 50,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "CT",
+    "age": 34,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "CT",
+    "age": 73,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "CT",
+    "age": 12,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "CT",
+    "age": 78,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "CT",
+    "age": 38,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "CT",
+    "age": 69,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "CT",
+    "age": 35,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "CT",
+    "age": 41,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "CT",
+    "age": 0,
+    "fluType": "A",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "MA",
+    "age": 19,
+    "fluType": "A",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "MA",
+    "age": 24,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "MA",
+    "age": 6,
+    "fluType": "A",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "MA",
+    "age": 22,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "MA",
+    "age": 14,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "MA",
+    "age": 68,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "MA",
+    "age": 5,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "MA",
+    "age": 62,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "MA",
+    "age": 99,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "MA",
+    "age": 29,
+    "fluType": "A",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "ME",
+    "age": 19,
+    "fluType": "A",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "ME",
+    "age": 58,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "ME",
+    "age": 92,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "ME",
+    "age": 77,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "ME",
+    "age": 27,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "ME",
+    "age": 49,
+    "fluType": "A",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "ME",
+    "age": 46,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "ME",
+    "age": 37,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "ME",
+    "age": 26,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "NH",
+    "age": 37,
+    "fluType": "A",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "NH",
+    "age": 54,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "NH",
+    "age": 67,
+    "fluType": "A",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "NH",
+    "age": 80,
+    "fluType": "A",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "NH",
+    "age": 36,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "NH",
+    "age": 93,
+    "fluType": "A",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "NH",
+    "age": 12,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "NH",
+    "age": 43,
+    "fluType": "A",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "NH",
+    "age": 36,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "VT",
+    "age": 27,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "VT",
+    "age": 64,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "VT",
+    "age": 42,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "VT",
+    "age": 19,
+    "fluType": "A",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "VT",
+    "age": 79,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "VT",
+    "age": 30,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "VT",
+    "age": 18,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "VT",
+    "age": 80,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "VT",
+    "age": 57,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "VT",
+    "age": 75,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "VT",
+    "age": 25,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "VT",
+    "age": 94,
+    "fluType": "A",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "VT",
+    "age": 38,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "VT",
+    "age": 78,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "VT",
+    "age": 9,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "VT",
+    "age": 34,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "VT",
+    "age": 45,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "VT",
+    "age": 79,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "VT",
+    "age": 28,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "NY",
+    "age": 77,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "NY",
+    "age": 25,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "NJ",
+    "age": 3,
+    "fluType": "A",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "NJ",
+    "age": 37,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "NJ",
+    "age": 17,
+    "fluType": "A",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "NJ",
+    "age": 45,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "NJ",
+    "age": 34,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "NJ",
+    "age": 100,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "NJ",
+    "age": 8,
+    "fluType": "A",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "NJ",
+    "age": 23,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "NJ",
+    "age": 31,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "NJ",
+    "age": 54,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "NJ",
+    "age": 83,
+    "fluType": "A",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "NJ",
+    "age": 25,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "NJ",
+    "age": 3,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "NJ",
+    "age": 45,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "PA",
+    "age": 43,
+    "fluType": "A",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "PA",
+    "age": 35,
+    "fluType": "A",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "PA",
+    "age": 44,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "PA",
+    "age": 88,
+    "fluType": "A",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "PA",
+    "age": 3,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "PA",
+    "age": 18,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "PA",
+    "age": 82,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "PA",
+    "age": 26,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "PA",
+    "age": 6,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "PA",
+    "age": 97,
+    "fluType": "A",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "PA",
+    "age": 89,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "PA",
+    "age": 67,
+    "fluType": "A",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "PA",
+    "age": 91,
+    "fluType": "A",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "PA",
+    "age": 9,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "PA",
+    "age": 25,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "DE",
+    "age": 61,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "DE",
+    "age": 55,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "DE",
+    "age": 69,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "DE",
+    "age": 47,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "DE",
+    "age": 89,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "DE",
+    "age": 82,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "DE",
+    "age": 11,
+    "fluType": "A",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "DE",
+    "age": 14,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "DE",
+    "age": 39,
+    "fluType": "A",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "DE",
+    "age": 83,
+    "fluType": "A",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "DE",
+    "age": 54,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "MD",
+    "age": 72,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "MD",
+    "age": 32,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "MD",
+    "age": 99,
+    "fluType": "A",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "MD",
+    "age": 26,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "MD",
+    "age": 39,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "MD",
+    "age": 100,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "MD",
+    "age": 31,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "MD",
+    "age": 34,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "WV",
+    "age": 93,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "WV",
+    "age": 96,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "KY",
+    "age": 19,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "KY",
+    "age": 55,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "KY",
+    "age": 86,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "KY",
+    "age": 45,
+    "fluType": "A",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "KY",
+    "age": 86,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "KY",
+    "age": 98,
+    "fluType": "A",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "KY",
+    "age": 37,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "KY",
+    "age": 25,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "KY",
+    "age": 99,
+    "fluType": "A",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "KY",
+    "age": 4,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "KY",
+    "age": 43,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "KY",
+    "age": 99,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "KY",
+    "age": 58,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "KY",
+    "age": 28,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "KY",
+    "age": 79,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "KY",
+    "age": 63,
+    "fluType": "A",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "KY",
+    "age": 73,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "KY",
+    "age": 76,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "KY",
+    "age": 76,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "KY",
+    "age": 85,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "OH",
+    "age": 75,
+    "fluType": "A",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "OH",
+    "age": 29,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "OH",
+    "age": 47,
+    "fluType": "A",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "OH",
+    "age": 79,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "OH",
+    "age": 16,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "OH",
+    "age": 76,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "OH",
+    "age": 37,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "OH",
+    "age": 3,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "MI",
+    "age": 70,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "MI",
+    "age": 19,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "MI",
+    "age": 26,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "MI",
+    "age": 8,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "MI",
+    "age": 35,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "MI",
+    "age": 40,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "MI",
+    "age": 58,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "WY",
+    "age": 79,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "WY",
+    "age": 70,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "WY",
+    "age": 84,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "WY",
+    "age": 39,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "WY",
+    "age": 80,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "WY",
+    "age": 90,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "WY",
+    "age": 15,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "WY",
+    "age": 7,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "WY",
+    "age": 10,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "WY",
+    "age": 10,
+    "fluType": "A",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "MT",
+    "age": 36,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "MT",
+    "age": 65,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "MT",
+    "age": 72,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "MT",
+    "age": 6,
+    "fluType": "A",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "MT",
+    "age": 10,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "MT",
+    "age": 98,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "MT",
+    "age": 65,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "MT",
+    "age": 64,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "MT",
+    "age": 30,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "ID",
+    "age": 24,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "ID",
+    "age": 73,
+    "fluType": "A",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "ID",
+    "age": 29,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "ID",
+    "age": 26,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "ID",
+    "age": 28,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "ID",
+    "age": 37,
+    "fluType": "A",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "ID",
+    "age": 53,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "ID",
+    "age": 95,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "ID",
+    "age": 42,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "WA",
+    "age": 9,
+    "fluType": "A",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "WA",
+    "age": 30,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "WA",
+    "age": 98,
+    "fluType": "A",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "WA",
+    "age": 47,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "WA",
+    "age": 91,
+    "fluType": "A",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "WA",
+    "age": 83,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "WA",
+    "age": 70,
+    "fluType": "A",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "DC",
+    "age": 93,
+    "fluType": "A",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "DC",
+    "age": 7,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "DC",
+    "age": 30,
+    "fluType": "A",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "DC",
+    "age": 85,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "DC",
+    "age": 39,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "DC",
+    "age": 25,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "DC",
+    "age": 49,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "DC",
+    "age": 96,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "DC",
+    "age": 77,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "DC",
+    "age": 77,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "DC",
+    "age": 6,
+    "fluType": "A",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "DC",
+    "age": 35,
+    "fluType": "A",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "DC",
+    "age": 11,
+    "fluType": "A",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "DC",
+    "age": 45,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "TX",
+    "age": 78,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "TX",
+    "age": 66,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "TX",
+    "age": 95,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "TX",
+    "age": 0,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "TX",
+    "age": 95,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "TX",
+    "age": 77,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "CA",
+    "age": 22,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "CA",
+    "age": 38,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "CA",
+    "age": 53,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "CA",
+    "age": 0,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "CA",
+    "age": 49,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "CA",
+    "age": 95,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "CA",
+    "age": 80,
+    "fluType": "A",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "CA",
+    "age": 35,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "CA",
+    "age": 84,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "AZ",
+    "age": 55,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "AZ",
+    "age": 12,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "AZ",
+    "age": 58,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "AZ",
+    "age": 25,
+    "fluType": "A",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "AZ",
+    "age": 78,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "AZ",
+    "age": 93,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "AZ",
+    "age": 62,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "AZ",
+    "age": 15,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "AZ",
+    "age": 56,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "AZ",
+    "age": 79,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "AZ",
+    "age": 88,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "AZ",
+    "age": 87,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "AZ",
+    "age": 65,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "AZ",
+    "age": 40,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "NV",
+    "age": 30,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "NV",
+    "age": 1,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "NV",
+    "age": 31,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "NV",
+    "age": 60,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "NV",
+    "age": 46,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "NV",
+    "age": 17,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "NV",
+    "age": 63,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "NV",
+    "age": 8,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "UT",
+    "age": 74,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "UT",
+    "age": 75,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "UT",
+    "age": 15,
+    "fluType": "A",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "UT",
+    "age": 49,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "UT",
+    "age": 82,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "UT",
+    "age": 34,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "UT",
+    "age": 66,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "CO",
+    "age": 66,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "CO",
+    "age": 40,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "CO",
+    "age": 96,
+    "fluType": "A",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "CO",
+    "age": 88,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "CO",
+    "age": 6,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "CO",
+    "age": 94,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "CO",
+    "age": 69,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "CO",
+    "age": 67,
+    "fluType": "A",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "CO",
+    "age": 34,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "CO",
+    "age": 56,
+    "fluType": "A",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "CO",
+    "age": 96,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "CO",
+    "age": 79,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "CO",
+    "age": 89,
+    "fluType": "A",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "CO",
+    "age": 64,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "NM",
+    "age": 43,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "NM",
+    "age": 48,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "NM",
+    "age": 83,
+    "fluType": "A",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "NM",
+    "age": 76,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "NM",
+    "age": 17,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "NM",
+    "age": 0,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "NM",
+    "age": 59,
+    "fluType": "A",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "NM",
+    "age": 65,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "NM",
+    "age": 89,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "NM",
+    "age": 21,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "NM",
+    "age": 78,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "NM",
+    "age": 59,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "NM",
+    "age": 97,
+    "fluType": "A",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "NM",
+    "age": 91,
+    "fluType": "A",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "OR",
+    "age": 14,
+    "fluType": "A",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "ND",
+    "age": 28,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "ND",
+    "age": 64,
+    "fluType": "A",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "ND",
+    "age": 22,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "ND",
+    "age": 23,
+    "fluType": "A",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "SD",
+    "age": 66,
+    "fluType": "A",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "SD",
+    "age": 29,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "SD",
+    "age": 24,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "SD",
+    "age": 95,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "NE",
+    "age": 14,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "NE",
+    "age": 58,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "NE",
+    "age": 51,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "NE",
+    "age": 77,
+    "fluType": "A",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "NE",
+    "age": 8,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "NE",
+    "age": 79,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "IA",
+    "age": 39,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "IA",
+    "age": 56,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "IA",
+    "age": 39,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "IA",
+    "age": 35,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "IA",
+    "age": 32,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "IA",
+    "age": 81,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "IA",
+    "age": 65,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "IA",
+    "age": 10,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "IA",
+    "age": 54,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "IA",
+    "age": 90,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "IA",
+    "age": 44,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "IA",
+    "age": 92,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "IA",
+    "age": 13,
+    "fluType": "A",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "IA",
+    "age": 54,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "IA",
+    "age": 58,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "IA",
+    "age": 45,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "IA",
+    "age": 48,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "MS",
+    "age": 23,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "MS",
+    "age": 64,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "MS",
+    "age": 56,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "MS",
+    "age": 13,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "MS",
+    "age": 85,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "MS",
+    "age": 83,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "MS",
+    "age": 54,
+    "fluType": "A",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "MS",
+    "age": 37,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "MS",
+    "age": 66,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "MS",
+    "age": 86,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "MS",
+    "age": 22,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "MS",
+    "age": 41,
+    "fluType": "A",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "MS",
+    "age": 80,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "MS",
+    "age": 56,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "MS",
+    "age": 68,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "MS",
+    "age": 68,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "MS",
+    "age": 78,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "MS",
+    "age": 91,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "MS",
+    "age": 6,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "IN",
+    "age": 58,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "IN",
+    "age": 52,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "IL",
+    "age": 16,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "IL",
+    "age": 25,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "IL",
+    "age": 50,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "IL",
+    "age": 59,
+    "fluType": "A",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "IL",
+    "age": 65,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "MN",
+    "age": 83,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "MN",
+    "age": 46,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "MN",
+    "age": 54,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "MN",
+    "age": 47,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "MN",
+    "age": 97,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "MN",
+    "age": 90,
+    "fluType": "A",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "MN",
+    "age": 43,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "MN",
+    "age": 19,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "MN",
+    "age": 18,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "MN",
+    "age": 76,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "MN",
+    "age": 95,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "MN",
+    "age": 38,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "MN",
+    "age": 51,
+    "fluType": "A",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "MN",
+    "age": 16,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "MN",
+    "age": 43,
+    "fluType": "A",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "MN",
+    "age": 64,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "MN",
+    "age": 38,
+    "fluType": "A",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "MN",
+    "age": 22,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "MN",
+    "age": 6,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "WI",
+    "age": 60,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "WI",
+    "age": 100,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "WI",
+    "age": 82,
+    "fluType": "A",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "WI",
+    "age": 29,
+    "fluType": "A",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "WI",
+    "age": 90,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "WI",
+    "age": 54,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "WI",
+    "age": 53,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "WI",
+    "age": 82,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "WI",
+    "age": 38,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "WI",
+    "age": 86,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "WI",
+    "age": 10,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "WI",
+    "age": 94,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "WI",
+    "age": 88,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "WI",
+    "age": 51,
+    "fluType": "A",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "WI",
+    "age": 79,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "WI",
+    "age": 34,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "WI",
+    "age": 62,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "WI",
+    "age": 88,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "WI",
+    "age": 73,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "MO",
+    "age": 31,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "MO",
+    "age": 100,
+    "fluType": "A",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "MO",
+    "age": 38,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "MO",
+    "age": 42,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "MO",
+    "age": 85,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "AR",
+    "age": 72,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "AR",
+    "age": 72,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "AR",
+    "age": 44,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "AR",
+    "age": 85,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "OK",
+    "age": 80,
+    "fluType": "A",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "OK",
+    "age": 5,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "OK",
+    "age": 66,
+    "fluType": "A",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "OK",
+    "age": 10,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "OK",
+    "age": 73,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "OK",
+    "age": 72,
+    "fluType": "A",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "OK",
+    "age": 4,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "OK",
+    "age": 56,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "OK",
+    "age": 97,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "OK",
+    "age": 44,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "OK",
+    "age": 55,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "OK",
+    "age": 87,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "OK",
+    "age": 72,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "KS",
+    "age": 29,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "KS",
+    "age": 41,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "KS",
+    "age": 8,
+    "fluType": "A",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "KS",
+    "age": 35,
+    "fluType": "A",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "KS",
+    "age": 31,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "KS",
+    "age": 38,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "KS",
+    "age": 52,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "KS",
+    "age": 83,
+    "fluType": "A",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "KS",
+    "age": 40,
+    "fluType": "A",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "KS",
+    "age": 53,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "KS",
+    "age": 65,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "KS",
+    "age": 89,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "KS",
+    "age": 32,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "KS",
+    "age": 13,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "KS",
+    "age": 24,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "KS",
+    "age": 64,
+    "fluType": "A",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "KS",
+    "age": 27,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "KS",
+    "age": 81,
+    "fluType": "A",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "LS",
+    "age": 13,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "f",
+    "stateName": "LS",
+    "age": 59,
+    "fluType": "A",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "LS",
+    "age": 8,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "VA",
+    "age": 88,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "f",
+    "stateName": "VA",
+    "age": 37,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "VA",
+    "age": 96,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "VA",
+    "age": 21,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "VA",
+    "age": 24,
+    "fluType": "B",
+    "year": 2016
+  },
+  {
+    "gender": "m",
+    "stateName": "VA",
+    "age": 3,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "VA",
+    "age": 86,
+    "fluType": "A",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "VA",
+    "age": 48,
+    "fluType": "B",
+    "year": 2015
+  },
+  {
+    "gender": "m",
+    "stateName": "VA",
+    "age": 94,
+    "fluType": "A",
+    "year": 2017
+  },
+  {
+    "gender": "m",
+    "stateName": "VA",
+    "age": 70,
+    "fluType": "B",
+    "year": 2017
+  },
+  {
+    "gender": "f",
+    "stateName": "VA",
+    "age": 8,
+    "fluType": "A",
+    "year": 2015
+  }
+]
